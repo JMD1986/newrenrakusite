@@ -8,16 +8,14 @@ import Artists from './components/artists';
 import Contact from './components/contact';
 import Releases from './components/releases';
 import registerServiceWorker from './registerServiceWorker';
-
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
-
-
 import {
   BrowserRouter as Router,
   Route,
   Link
 } from 'react-router-dom'
+
+ReactDOM.render(<App />, document.getElementById('root'));
+registerServiceWorker();
 
 ReactDOM.render(<Router>
   <div>
