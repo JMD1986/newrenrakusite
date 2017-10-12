@@ -12,13 +12,13 @@ class Home extends Component {
         </div>
       </div>
       <div class="row">
-        <div class="col s3"><a href="http://soundcloud.com/renrakurecords"><img src="images/42/soundcloud42.png"></a></div>
+        <div class="col s3"><a href="http://soundcloud.com/renrakurecords"><img src="images/42/soundcloud42.png"/></a></div>
         <div class="col s3">
-        <a href="http://twitter.com/renrakurecords"><img src="images/42/twitter42.png"></a>
+        <a href="http://twitter.com/renrakurecords"><img src="images/42/twitter42.png"/></a>
         </div>
-        <div class="col s3"><a href="http://instagram.com/renrakurecords"><img src="images/42/instagram42.png"></a>
+        <div class="col s3"><a href="http://instagram.com/renrakurecords"><img src="images/42/instagram42.png"/></a>
         </div>
-        <div class="col s3"><a href="http://youtube.com/renrakurecords"><img src="images/42/youtube42.png"></a>
+        <div class="col s3"><a href="http://youtube.com/renrakurecords"><img src="images/42/youtube42.png"/></a>
         </div>
         </div>
     </div>
